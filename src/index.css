@@ -1,0 +1,5 @@
+/* グローバルリセット (box-sizing は App.css で定義) */
+body {
+  margin: 0;
+  padding: 0;
+}
